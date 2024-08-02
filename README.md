@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gear-Droid
-- 👀 I’m interested in web-dev, I'm using Python3 language with Django. Making Football School site.
+- 👀 I’m interested in web-dev, I'm using Java and Python3 languages. Making Football School site.
 - 📫 How to reach me: vladi003@yandex.ru
 
 <!---
