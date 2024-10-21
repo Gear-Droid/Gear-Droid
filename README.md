@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gear-Droid
 - 👀 I’m interested in web-dev, I'm using Java and Python3 languages
-- 📫 How to reach me: +7(999)674-49-37 (telegram @Vl4d0k)
+- 📫 How to reach me: +7(999) 674-49-37 (telegram @Vl4d0k)
 - vladi003@yandex.ru
 
 <!---
